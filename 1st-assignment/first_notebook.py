@@ -1,4 +1,22 @@
+# 1st program print ('Hello world!')
 print("Hello, World!")
+
+# variables
+name = ('Shahid')          # string
+
+age = 25                   # integer
+
+is_student = True             # boolean
+
+value = 44.45444           # float
+
+print(name,age,is_work,value)
+
+# Data types in python
+print (type(name))          # string
+print (type(age))           # integer
+print (type(is_student))       # boolean
+print (type(value))         # float
 
 # Basic Python Practice, Variables & Data Types
 name = "Shahid Ali"
