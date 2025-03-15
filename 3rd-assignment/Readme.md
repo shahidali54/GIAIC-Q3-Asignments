@@ -1,4 +1,4 @@
-**This repository contains key concepts from three important lessons in Python. Below is a brief explanation of each lesson:**
+**This Assignment contains key concepts from three important lessons in Python. Below is a brief explanation of each lesson:**
 
 **Lesson 05: Control Flow & Loops**
 Control Flow and Loops are used to manage the execution flow of a program in Python.
