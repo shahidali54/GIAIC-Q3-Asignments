@@ -1,4 +1,4 @@
-# 📘 Class 06 Assignment – Submitted by Shahid Ali
+# 📘 Class 06 Assignments – April 14 - 2025
 
 This repository contains solutions and code examples for the following three Python lessons:
 
@@ -58,7 +58,6 @@ python the_date_&_time.py
 
 ### ✅Assignment Completed by:
 **👨‍💻 Name:** Shahid Ali  
-**📅 Date:** April 14, 2025  
+**📅 Date:** April 15, 2025  
 **🏫 Class:** GIAIC – Monday 2 - 5 Quarter 3
-
 
