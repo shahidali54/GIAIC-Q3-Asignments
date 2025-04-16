@@ -50,13 +50,13 @@ This lesson covers two powerful built-in modules: `math` and `datetime`. These a
 Each lesson's code is saved in a `.py` file.  
 Simply run the Python files one by one to see the output examples in action.
 
-```bash
+```sh
 python exception_handling.py
 python file_handling.py
 python the_date_&_time.py
----
+```
 
-### ✅ Assignment Completed by:
+### ✅Assignment Completed by:
 **👨‍💻 Name:** Shahid Ali  
 **📅 Date:** April 14, 2025  
 **🏫 Class:** GIAIC – Monday 2 - 5 Quarter 3
