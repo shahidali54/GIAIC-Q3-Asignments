@@ -22,7 +22,7 @@ This is a simple and smart file organizer built using **Python** and **Streamlit
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart-file-organizer.git
+git clone https://github.com/shahidali54/smart-file-organizer.git
 cd smart-file-organizer
 ```
 
