@@ -35,14 +35,14 @@ pip install streamlit
 ### Run the app
 
 ```bash
-streamlit run frontend.py
+streamlit run app.py
 ```
 
 ## 📁 Folder Structure
 
 ```
 smart-file-organizer/
-├── frontend.py
+├── app.py
 ├── file_organizer.py
 ├── README.md
 ```
