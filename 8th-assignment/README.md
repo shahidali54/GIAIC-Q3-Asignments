@@ -53,10 +53,6 @@ project/
 - **Abstraction**: Data is handled via class methods
 - **Polymorphism**: Not explicitly used but structure allows for extension
 
-## 📊 Demo Screenshots
-
-> Sample screenshots can be added using terminal capture tools or rich output (optional).
-
 ---
 
-Created with ❤️ using Python and Rich.
+Made with ❤️ By Shahid Ali
