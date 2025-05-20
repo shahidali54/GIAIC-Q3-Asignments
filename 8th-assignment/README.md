@@ -43,7 +43,7 @@ project/
 │
 ├── main.py              # Main CLI application
 ├── student_data.json    # Auto-generated database file
-└── README.md            # This file
+
 ```
 
 ## 🛠️ Object-Oriented Concepts Used
