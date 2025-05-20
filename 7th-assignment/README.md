@@ -65,10 +65,7 @@ Check what changes would be made without actually moving any files.
 
 Enable this option to clean up empty folders after organizing.
 
-## 📬 Feedback / Issues
-
-Feel free to open issues or pull requests if you find bugs or have feature suggestions.
 
 ---
 
-Made with ❤️ using Python and Streamlit.
+Made with ❤️ By Shahid Ali
