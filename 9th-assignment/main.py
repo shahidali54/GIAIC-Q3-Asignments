@@ -98,8 +98,8 @@ def create_checkout_session(user_id):
             'quantity': 1,
         }],
         mode='subscription',
-        success_url=f"http://localhost:8501/?payment_success=true&user_id={user_id}",
-        cancel_url="http://localhost:8501/?payment_cancelled=true",
+        success_url=f"https://secure-vault-by-shahidali.streamlit.app/",
+        cancel_url="https://secure-vault-by-shahidali.streamlit.app/",
     )
     return session.url
 
