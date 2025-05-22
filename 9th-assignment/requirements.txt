@@ -2,3 +2,4 @@ streamlit
 stripe
 bcrypt
 PyJWT
+cryptography
