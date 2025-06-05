@@ -17,6 +17,7 @@ Exception Handling allows you to catch and handle runtime errors gracefully inst
 
 ---
 
+
 ## 📁 Lesson 10: File Handling
 
 **Purpose:**  
