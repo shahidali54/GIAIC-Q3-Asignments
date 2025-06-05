@@ -21,6 +21,7 @@ else:
     print("It's a cold day!")
 
 
+
 # For Loop (Looping through a list of fruits)
 fruits = ["Apple", "Banana", "Cherry", "Mango"]
 for fruit in fruits:
