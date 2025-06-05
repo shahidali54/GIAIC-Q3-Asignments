@@ -133,3 +133,4 @@ class VideoOrganizer(BaseOrganizer):
             self._delete_empty_folders(original_files)
 
         return dict(self.summary)
+    
