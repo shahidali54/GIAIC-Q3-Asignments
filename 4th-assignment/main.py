@@ -15,6 +15,7 @@ import math    # Importing math module to use math formulas
 import random  # Importing random module to generate random values
 import os      # Importing os module to work with folders and files
 
+
 # math module
 print("Square root of 64:", math.sqrt(64))  
 # math.sqrt(64) means: find the square root of 64 (result will be 8.0)
