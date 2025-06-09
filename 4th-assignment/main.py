@@ -52,7 +52,6 @@ print("Value of Pi from custom module:", my_module.pi_value)
 from my_module import greet
 print(greet("Shahid"))
 
-
 #<=================== Third-Party Modules (External Libraries) =======================>
 """Third-party modules are those which are not pre-installed with Python.
    We need to install them manually using pip or any package manager.
@@ -107,7 +106,6 @@ print("Pi value using alias:", p)
    Not recommended for large modules as it clutters the namespace."""
 from math import *
 print("Sin value using wildcard import:", sin(0))
-
 
 
 
