@@ -43,4 +43,3 @@ file.close()  # Close the file after appending
 with open('example.txt', 'r') as file:  # Automatically closes the file after the block
     content = file.read()  # Read the entire content of the file
     print(content)  # Print the content of the file
-
