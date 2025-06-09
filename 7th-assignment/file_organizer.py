@@ -133,4 +133,18 @@ class VideoOrganizer(BaseOrganizer):
             self._delete_empty_folders(original_files)
 
         return dict(self.summary)
-    
+
+# ---------------------- Example Usage ----------------------
+# if __name__ == "__main__":
+#     # Example usage of the organizers
+#     organizer = FileOrganizer("path/to/your/directory")
+#     summary = organizer.organize(dry_run=True, delete_empty=True)
+#     print("Organized Summary:", summary)
+
+#     doc_organizer = DocumentOrganizer("path/to/your/directory")
+#     doc_summary = doc_organizer.organize(dry_run=True, delete_empty=True)
+#     print("Document Organized Summary:", doc_summary)
+
+#     video_organizer = VideoOrganizer("path/to/your/directory")
+#     video_summary = video_organizer.organize(dry_run=True, delete_empty=True)
+#     print("Video Organized Summary:", video_summary)
