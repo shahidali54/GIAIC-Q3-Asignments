@@ -20,7 +20,6 @@ print("Number of ticks since 12:00am, January 1, 1970:", ticks)
 localtime = time.localtime(time.time())
 print ("Local current time :", localtime)
 
-
 # Getting the Current Date
 localtime = time.localtime(time.time())
 print ("Local current date :", time.strftime("%d-%m-%Y", localtime))
@@ -42,7 +41,6 @@ print (cal)
 # The Calendar: Getting the Weekday for a Date
 date_obj = datetime.date(2025, 4, 16)
 print("Day of the week:", date_obj.strftime("%A"))
-
 
 # The Date Time
 date1 = date(2023, 4, 19)
@@ -87,3 +85,8 @@ print(f"{base} raised to the power {exponent} is {power_result}")
 print(f"Value of PI is: {math.pi}")
 print(f"Ceiling of 3.7 is: {math.ceil(3.7)}")
 print(f"Floor of 3.7 is: {math.floor(3.7)}")
+
+# Use math.factorial() to calculate factorial
+number = 5
+factorial_result = math.factorial(number)
+print(f"The factorial of {number} is {factorial_result}")
