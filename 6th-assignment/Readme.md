@@ -17,7 +17,6 @@ Exception Handling allows you to catch and handle runtime errors gracefully inst
 
 ---
 
-
 ## 📁 Lesson 10: File Handling
 
 **Purpose:**  
@@ -61,4 +60,3 @@ python the_date_&_time.py
 **👨‍💻 Name:** Shahid Ali  
 **📅 Date:** April 15, 2025  
 **🏫 Class:** GIAIC – Monday 2 - 5 Quarter 3
-
