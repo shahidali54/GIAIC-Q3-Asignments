@@ -125,4 +125,3 @@ if st.button("Organize Now"):
             st.error(f"Error: {e}")
     else:
         st.warning("Please enter a valid path")
-
