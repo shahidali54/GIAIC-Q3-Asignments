@@ -26,7 +26,6 @@ fruits = ["Apple", "Banana", "Cherry", "Mango"]
 for fruit in fruits:
     print("I like", fruit)
 
-
 # For Loop with Range (Loops from 0 to 4)
 for i in range(5):  
     print("Count:", i)
