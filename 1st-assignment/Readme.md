@@ -25,4 +25,3 @@
  _ (underscore) is used as a wildcard in pattern matching.
 
  type is now a soft keyword in Python 3.12, but it is still a built-in function.
-
