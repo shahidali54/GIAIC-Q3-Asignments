@@ -59,4 +59,4 @@ python the_date_&_time.py
 ### ✅Assignment Completed by:
 **👨‍💻 Name:** Shahid Ali  
 **📅 Date:** April 15, 2025  
-**🏫 Class:** GIAIC – Monday 2 - 5 Quarter 3
+**🏫 Class:** GIAIC – Monday 2 - 5
