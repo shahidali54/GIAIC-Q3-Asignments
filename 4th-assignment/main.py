@@ -128,7 +128,6 @@ def my_function():
 my_function()
 
 
-
 # Function with parameter
 def greet_user(name):
     print(f"Hello, {name}! How are you?")
@@ -646,7 +645,6 @@ print("math.inf = ", math.inf)  # outputs: inf
 
 # math.nan is a constant representing "not a number"
 print("math.nan = ", math.nan)  # outputs: nan
-
 
 
 # NaN: In Python, 
