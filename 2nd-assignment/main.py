@@ -164,6 +164,7 @@ not1 = 10
 not2 = 4
 print("~not1 = ", ~not1)  # -11
 
+
 # << (Left Shift)
 left_shift1 = 10
 left_shift2 = 2
