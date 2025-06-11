@@ -11,7 +11,6 @@
    assert   del      global    not       with  
    async    elif     if        or        yield
 
-
 2️⃣. Soft Keywords
     Soft keywords act as keywords in specific contexts, but they can still be used as variable names in other cases. 
 
