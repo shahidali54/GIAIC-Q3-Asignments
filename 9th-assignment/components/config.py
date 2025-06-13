@@ -15,3 +15,4 @@ class SupabaseConfig:
             "payments": "payments"
         }
 
+
