@@ -43,4 +43,9 @@ file.close()  # Close the file after appending
 with open('example.txt', 'r') as file:  # Automatically closes the file after the block
     content = file.read()  # Read the entire content of the file
     print(content)  # Print the content of the file
-    
+
+# 5. Reading a file using 'with' statement
+with open('example.txt', 'r') as file:  # Automatically closes the file after the block
+    content = file.readlines()  # Read all lines of the file into a list
+    for line in content:
+        print(line.strip())  # Print each line without extra newline characters 
