@@ -90,3 +90,11 @@ print(f"Floor of 3.7 is: {math.floor(3.7)}")
 number = 5
 factorial_result = math.factorial(number)
 print(f"The factorial of {number} is {factorial_result}")
+
+
+# new math functions
+# Use math.gcd() to calculate greatest common divisor
+num1 = 48
+num2 = 18
+gcd_result = math.gcd(num1, num2)
+print(f"The GCD of {num1} and {num2} is {gcd_result}")
