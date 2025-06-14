@@ -8,4 +8,3 @@ def add(a, b):
 
 # A variable
 pi_value = 3.14159
-
