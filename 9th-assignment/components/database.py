@@ -120,4 +120,3 @@ class DatabaseHandler:
         except Exception as e:
             print(f"Error creating payment: {e}")
             return False
-
