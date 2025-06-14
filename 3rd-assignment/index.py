@@ -161,6 +161,3 @@ print(frozen_fruits)
 # Trying to add an item to a frozenset (This will cause an error)
 frozen_fruits.add("mango")  # ERROR: 'frozenset' object has no attribute 'add'
 
-# Using frozenset to create a unique set of numbers
-# unique_numbers = frozenset([1, 2, 3, 3, 4, 4, 5])
-# print("Unique numbers in frozenset:", unique_numbers)  # Output: frozenset({1, 2, 3, 4, 5})
