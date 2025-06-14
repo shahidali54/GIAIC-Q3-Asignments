@@ -217,5 +217,3 @@ if __name__ == "__main__":
     app = StudentManagementSystem()
     app.run()
 
-# This code implements a simple Student Management System using Python with OOP principles.
-# It includes classes for Person, Student, and Teacher, and provides functionalities to add, view, search, and update students and teachers.
