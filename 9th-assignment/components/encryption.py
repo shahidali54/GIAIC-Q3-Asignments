@@ -12,4 +12,3 @@ class EncryptionService:
     
     def decrypt_data(self, encrypted_text: str) -> str:
         return self.cipher.decrypt(encrypted_text.encode()).decode()
-
