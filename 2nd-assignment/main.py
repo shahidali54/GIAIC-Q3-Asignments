@@ -174,6 +174,3 @@ right_shift1 = 10
 right_shift2 = 2
 print("right_shift1 >> right_shift2 = ", right_shift1 >> right_shift2)  # 2
 
-# Conditional Statements
-# if, elif, else
-# if statement
