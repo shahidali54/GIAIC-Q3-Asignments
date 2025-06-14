@@ -51,4 +51,3 @@ class AuthService:
     def logout(self):
         st.session_state.user = None
         st.session_state.current_page = "auth"
-
