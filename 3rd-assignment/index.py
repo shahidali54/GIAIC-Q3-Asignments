@@ -159,5 +159,4 @@ frozen_fruits = frozenset(["apple", "banana", "cherry"])
 print(frozen_fruits)
 
 # Trying to add an item to a frozenset (This will cause an error)
-frozen_fruits.add("mango")  # ERROR: 'frozenset' object has no attribute 'add'
-
+frozen_fruits.add("mango")  # ERROR: 'frozenset' object has no attribute 'add' 
