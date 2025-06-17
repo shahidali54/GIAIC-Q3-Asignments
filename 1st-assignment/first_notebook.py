@@ -112,4 +112,4 @@ print(my_set)
 
 # Remove duplicate values automatically
 my_set1 = {1, 2, 2, 3, 4, 4, 5}
-print(my_set1)
+print(my_set1) 
