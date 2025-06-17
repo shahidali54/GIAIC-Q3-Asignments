@@ -48,4 +48,4 @@ with open('example.txt', 'r') as file:  # Automatically closes the file after th
 with open('example.txt', 'r') as file:  # Automatically closes the file after the block
     content = file.readlines()  # Read all lines of the file into a list
     for line in content:
-        print(line.strip())  # Print each line without extra newline characters 
+        print(line.strip())  # Print each line without extra newline characters  
