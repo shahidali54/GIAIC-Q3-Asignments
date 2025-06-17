@@ -59,4 +59,4 @@ def divide_numbers(a, b):
 # Test Cases
 divide_numbers(10, 2)       # Valid division
 divide_numbers(10, 0)       # Division by zero
-divide_numbers(10, "2")     # Invalid input type (string instead of number)
+divide_numbers(10, "2")     # Invalid input type (string instead of number) 
