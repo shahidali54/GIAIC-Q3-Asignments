@@ -132,6 +132,4 @@ class VideoOrganizer(BaseOrganizer):
         if delete_empty:
             self._delete_empty_folders(original_files)
 
-        return dict(self.summary)
-
-
+        return dict(self.summary) 
