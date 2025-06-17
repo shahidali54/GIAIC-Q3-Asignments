@@ -172,5 +172,4 @@ print("left_shift1 << left_shift2 = ", left_shift1 << left_shift2)  # 40
 # >> (Right Shift)
 right_shift1 = 10
 right_shift2 = 2
-print("right_shift1 >> right_shift2 = ", right_shift1 >> right_shift2)  # 2
-
+print("right_shift1 >> right_shift2 = ", right_shift1 >> right_shift2)  # 2 
