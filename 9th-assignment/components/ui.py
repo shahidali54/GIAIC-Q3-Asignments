@@ -154,4 +154,4 @@ class UIComponents:
         
         if st.button("⬅️ Back to Home"):
             st.session_state.current_page = "home"
-            st.rerun()
+            st.rerun() 
