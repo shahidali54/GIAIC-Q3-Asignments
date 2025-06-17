@@ -707,4 +707,4 @@ positive_infinity = math.inf
 print(positive_infinity > 999999999999999999999999) #It's greater than any finite number.
 
 """ Topics covered by Sir Arif Kasim Rozani Google Colabs.
-    By Shahid Ali """
+    By Shahid Ali """ 
