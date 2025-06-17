@@ -13,4 +13,4 @@ class SupabaseConfig:
             "users": "users",
             "encrypted_data": "encrypted_data",
             "payments": "payments"
-        }
+        } 
