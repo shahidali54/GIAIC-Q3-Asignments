@@ -1,4 +1,0 @@
-streamlit
-supabase
-cryptography
-python-dotenv
