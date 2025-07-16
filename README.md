@@ -1,4 +1,3 @@
 # GIAIC-Q3-Assignments
-# Monday 2 - 5
-
- All Assignment Completed
+Monday 2 - 5
+All Assignment Completed
